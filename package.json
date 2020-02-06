@@ -1,0 +1,22 @@
+{
+  "name": "ps-central",
+  "version": "1.0.0",
+  "description": "central",
+  "author": "Antonio",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/bulma": "^1.2.1",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.27",
+    "nuxt": "^2.0.0",
+    "vue2-google-maps": "^0.10.7"
+  },
+  "devDependencies": {}
+}
