@@ -13,7 +13,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/bulma": "^1.2.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.27",
     "nuxt": "^2.0.0",
     "vue2-google-maps": "^0.10.7"
