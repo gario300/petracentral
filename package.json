@@ -15,7 +15,7 @@
     "@nuxtjs/bulma": "^1.2.1",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.27",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "vue2-google-maps": "^0.10.7"
   },
   "devDependencies": {}
